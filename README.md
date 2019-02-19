@@ -1,10 +1,10 @@
 # MeMe
 Meme the first udacity nano degree project
 
-# Features:
+### Features:
 - get an image from album and write tow phrases top and button.
 
-# Implementation
+### Implementation
 
   - click on album to select an image. 
   - type the tow phrases top and button.
